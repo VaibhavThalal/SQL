@@ -3,7 +3,7 @@
 # Practice SQL Scripts From Interview Prep Websites
 ------------
 
-These are scripts that answer questions from <a href="https://leetcode.com">leetcode</a>, <a href="https://datalemur.com/">DataLemur</a>, <a href="https://hackerrank.com">hackerank</a> and <a href="http://sqlzoo.net">sqlzoo</a>. Links to questions and my answers are below!
+SQL Practice Questions from <a href="https://www.stratascratch.com/">Stratascratch</a>, <a href="https://datalemur.com/">DataLemur</a>, <a href="https://hackerrank.com">hackerank</a> and <a href="http://sqlzoo.net">sqlzoo</a>. Links to questions and my answers are below!
 
 
 ## LeetCode 
