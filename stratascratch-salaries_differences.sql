@@ -7,7 +7,7 @@ end) as sal_diff
 from db_employee e join db_dept d
 on
 e.department_id = d.id
-where lower(d.department) in ("marketing", "engineering")
+where lower(d.department) in ("marketing", "engineering") 
 
 
 
